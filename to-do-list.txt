@@ -1,6 +1,6 @@
 - Fix page for more beauties:
 	+ In Farm page:	
-	1) Add more informations of each cart to the image of the cart, use serious image
+	1) Add more informations of each cart to the image of the cart, use serious image [x]
 	+ In Buiding page:
 	1) Fix grid option so that all charts fit in the page
 	2) Complete "measurments available" function
